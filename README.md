@@ -1,6 +1,6 @@
 # 🥃  Daniel Guerrero  
 
-💻 **`Data Scientist | Machine Learning & Forecasting | AI Agent Builder | Advanced n8n & CRM Automations`** 
+💻 **`Data Scientist | Machine Learning | Deep Learning | AI Agent Builder `** 
 
 I’m passionate about turning data into actionable insights and building end-to-end solutions using **Python, Machine Learning, and Data Visualization**.  
 Currently focused on improving my skills through real-world projects and preparing for my first international role in **Data Science**.
