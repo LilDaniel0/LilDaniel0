@@ -41,9 +41,9 @@ Currently focused on improving my skills through real-world projects and prepari
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jose-guerrero-ba10b017a)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-guerrero-lildaniel/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Guerrero-blue)](https://linkedin.com/in/jose-guerrero-ba10b017a)  
-[![Email](https://img.shields.io/badge/Email-danielguerrero@example.com-red)](mailto:danielguerrero@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Guerrero-blue)](https://www.linkedin.com/in/daniel-guerrero-lildaniel/)
+[![Email](https://img.shields.io/badge/Email-danielguerrero5402@proton.me-red)](mailto:danielguerrero5402@proton.me)
 
 ---
