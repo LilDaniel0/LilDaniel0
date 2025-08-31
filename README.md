@@ -19,7 +19,7 @@ Currently focused on improving my skills through real-world projects and prepari
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,vscode,git,sklearn,fastapi,supabase,postgresql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,vscode,fastapi,supabase,postgresql,git,github&theme=dark)](https://skillicons.dev)
 
 ![UV](https://img.shields.io/badge/UV-Package%20Management-violet)
 ![CookieCutter](https://img.shields.io/badge/CookieCutter-Project%20Structure-yellow)
