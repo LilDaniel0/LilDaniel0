@@ -2,8 +2,8 @@
 
 💻 **`Data Scientist | Machine Learning | Deep Learning | AI Agent Builder `** 
 
-I’m passionate about turning data into actionable insights and building end-to-end solutions using **Python, Machine Learning, and Data Visualization**.  
-Currently focused on improving my skills through real-world projects and preparing for my first international role in **Data Science**.
+I’m build the solutions help YOUR bissnes to automage almost everything using **Python, n8n, Machine Learning, and Data Visualization**.  
+Currently working real-world projects to master every skill of **Data Science**.
 
 ---
 
