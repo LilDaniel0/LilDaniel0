@@ -2,8 +2,8 @@
 
 💻 **`Data Scientist | Machine Learning | Deep Learning | AI Agent Builder `** 
 
-I’m build the solutions help YOUR bissnes to automage almost everything using **Python, n8n, Machine Learning, and Data Visualization**.  
-Currently working real-world projects to master every skill of **Data Science**.
+I’m build the solution that help YOUR business to automate almost everything using **Python, n8n, Machine Learning, and Data Visualization**.  
+Currently working on real-world projects to master every skill of a **Data Scientist**.
 
 ---
 
