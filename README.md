@@ -19,7 +19,7 @@ Currently working on real-world projects to master every skill of a **Data Scien
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pkl,vscode,fastapi,docker,supabase,postgresql,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pkl,vscode,fastapi,postman,docker,supabase,postgresql,git,github&theme=dark)](https://skillicons.dev)
 
 ![UV](https://img.shields.io/badge/UV-Package%20Management-violet)
 ![CookieCutter](https://img.shields.io/badge/CookieCutter-Project%20Structure-yellow)
