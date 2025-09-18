@@ -11,7 +11,7 @@ Currently working on real-world projects to master every skill of a **Data Scien
 
 | Project | Description | Skills | Repo |
 |--------|-------------|--------|------|
-| **Customer Segmentation** | Clustering customers based on purchasing behavior to optimize marketing strategies | `EDA` `Clustering` `PCA` | [View Project](https://github.com/LilDaniel0/marketing-customer-segmentation) |
+| **Analize Sales Conversations** | Analize the pitch of sales only with the exported chat from WhatsApp | `OpenAI` `Docker` `Streamlit` | [View Project](https://github.com/LilDaniel0/Sales-Conversation-Analizer) |
 | **Energy Demand Forecasting** | Predicting monthly energy consumption using time series forecasting techniques | `Time Series` `Theta` `ARIMA` | [View Project](https://github.com/LilDaniel0/energy-demand-forecasting) |
 | **Fraud Detection** | Classifying fraudulent transactions using machine learning pipelines | `Classification` `Imbalanced Data` `Pipelines` | [View Project](https://github.com/LilDaniel0/credit-fraud-detection) |
 
